@@ -86,7 +86,7 @@ df_clean = df_full[
 # 4. הגדרת משתנה המטרה (Low HGS/BMI) לפי ספי FNIH
 # ==========================================
 # חישוב היחס: כוח אחיזת יד מקסימלי (ק"ג) חלקי BMI
-df_clean['HGS_BMI'] = df_clean['MGDCGSZ'] / df_clean['BMXBMI']
+df_clean['HGS_BMI'] = (df_clean['MGDCGSZ'] / 2) / df_clean['BMXBMI']
 
 # ערכי הסף הקליניים של FNIH (Studenski et al., 2014):
 # גברים (RIAGENDR == 1): מתחת ל-1.00
