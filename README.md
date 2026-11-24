@@ -43,7 +43,7 @@ Predicting Low Relative Handgrip Strength from Chronic Medication Interactions i
 - **Week 10 (23 Dec):** Run SHAP to check key drug interactions and test that the code works properly.
 - **Week 11 (30 Dec):** Organize the GitHub files, write a short results summary, and submit the project.
 
-#טבלת הסיכום
+# נספח: טבלת הסיכום של בדיקת הנתונים
 
 
 | Group | N | Age (Mean ± SD) | BMI (Mean ± SD) | HGS/BMI (Mean ± SD) | Low HGS/BMI (%) | Statins (%) | Antihypertensives (%) | Antidiabetics (%) | Corticosteroids (%) |
