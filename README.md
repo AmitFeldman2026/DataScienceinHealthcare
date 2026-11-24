@@ -40,10 +40,9 @@ Predicting Low Relative Handgrip Strength from Chronic Medication Interactions i
 - **Week 7 (2 Dec):** Complete data cleaning, verify medication grouping, and explore drug combinations in the dataset.
 - **Week 8 (9 Dec):** Split the data into train/test sets and build the baseline Logistic Regression model.
 - **Week 9 (16 Dec):** Train the XGBoost model and compare AUROC/AUPRC scores against the baseline.
-- **Week 10 (23 Dec):**Run SHAP to check key drug interactions and test that the code works properly.
-- **Week 11 (30 Dec):**Organize the GitHub files, write a short results summary, and submit the project.
-- **
-- **
+- Week 10 (23 Dec):**Run SHAP to check key drug interactions and test that the code works properly.
+- Week 11 (30 Dec):**Organize the GitHub files, write a short results summary, and submit the project.
+
 #טבלת הסיכום
 
 
