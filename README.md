@@ -1,6 +1,6 @@
 Predicting Low Relative Handgrip Strength from Chronic Medication Interactions in NHANES
 
-**Team Members:** Amit Feldman, Steven Teppe, Anastasia Monogrov
+**Team Members:** Amit Feldman, Steven Tepper, Anastasia Monogrov
 
 1\. Dataset
 
